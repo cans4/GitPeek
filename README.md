@@ -5,6 +5,10 @@
 Welcome to GitPeek! This is a React Native project created with Expo to search and view GitHub profiles and bookmark your favourite repositories.
 The application leverages Axios for making API requests to GitHub and uses the React Context API for state management.
 
+## App Demo
+
+https://github.com/user-attachments/assets/eddb45fc-e3a6-4e8d-87bf-3f70cfa2a440
+
 ## Features
 
 - **GitHub Profile Search**: Search for GitHub users by their username.
